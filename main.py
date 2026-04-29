@@ -83,8 +83,9 @@ def metadata():
         "team_members": ["Dhwani"],
         "model": "deterministic-compose-v1",
         "approach": "Rule-based composer with JSON-grounded slots; trigger-first routing",
-        "contact_email": "dhwani@gmail.com",
+        "contact_email": "dhwanisaliya@gmail.com",
         "version": "1.0.0",
+        "url": "https://vera-dhwani-bot.onrender.com",
         "submitted_at": _utc_iso(),
     }
 
